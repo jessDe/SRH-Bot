@@ -1,0 +1,35 @@
+{
+  "name": "srh",
+  "version": "1.0.0",
+  "description": "An awesome Discord bot for the GME-2023",
+  "main": "Bot.ts",
+  "scripts": {
+    "dev": "nodemon Bot.ts",
+    "start": "ts-node Bot.ts"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "srh",
+    "gme-2023"
+  ],
+  "author": "LP4",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.3.1",
+    "canvas": "^2.11.2",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.4",
+    "moment": "^2.29.4",
+    "twitter-api-v2": "^1.15.1"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.4.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
