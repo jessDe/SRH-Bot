@@ -1,18 +1,14 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/shimizu-izumi/Chixia">
-    <img src="https://hw-media-cdn-mingchao.kurogame.com/static/assets/head-active3-73f5e84c.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Chixia Discord Bot</h3>
+
+  <h3 align="center">SRH Discord Bot</h3>
 
   <p align="center">
     An awesome Discord bot for the Stormy Waves server
     <br/>
     <br/>
-    <a href="https://github.com/shimizu-izumi/Chixia/issues">Report Bug</a>
-    .
-    <a href="https://github.com/shimizu-izumi/Chixia/issues">Request Feature</a>
+    
   </p>
 </p>
 
